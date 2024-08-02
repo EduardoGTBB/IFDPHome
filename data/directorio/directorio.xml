@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<unidad-administrativa>
+    <direccion calle="Bucareli" num-int="" num-ext="22 y 24" colonia="Colonia Centro" del-mun="Alcaldía Cuauhtémoc" ent-fed="Ciudad de México," cp="06040" />
+    <contacto telefono="Red #316 5130-0100" observaciones="conmutador" />
+    <area nombre="Dirección General">
+    <servidor-publico nombre="Maestro Netzaí Sandoval Ballesteros" cargo="Director General" semblanza="Netzai_Sandoval">
+        <contacto extension="1229" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Cynthia Berenice Bello Toledo" cargo="Secretaria Particular" semblanza="Cynthia_Bello">
+        <contacto extension="1230" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Adriana Guadalupe Rivas Ramírez" cargo="Apoyo a la Dirección General" semblanza="Adriana_Rivas">
+        <contacto extension="1228" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Luís Bolívar Realpe Aviña" cargo="Coordinador Administrativo">
+        <contacto extension="1255" />
+    </servidor-publico>
+    <servidor-publico nombre="" cargo="Secretario Técnico (coordinación externa)">
+        <contacto extension="1226" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Miriam Falcón Ugalde" cargo="Jefe de Departamento">
+        <contacto telefono="" extension="1235" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Rafael Robles Roa" cargo="Secretario Técnico (coordinación interna)" semblanza="Rafael_Robles">
+        <contacto telefono="" extension="1225" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Lourdes Cristina Torres Pérez" cargo="Jefe de Departamento">
+        <contacto telefono="" extension="1181" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Moisés Alberto Terán Amaya" cargo="Jefe de Departamento">
+        <contacto telefono="" extension="1234" />
+    </servidor-publico>
+    </area>
+    <area nombre="Unidad de Defensa Penal y Evaluación del Servicio">
+    <servidor-publico nombre="Lic. Jorge Rivero Ortiz" cargo="Titular de la Unidad">
+        <contacto telefono="5521-2449" extension="1179" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Julio Giovanni Montiel Rodríguez" cargo="Coordinador Técnico">
+        <contacto telefono="" extension="1291" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Esther Mandujano González" cargo="Jefa de Departamento">
+        <contacto extension="1291" telefono="5518-5141 (fax)" />
+    </servidor-publico>
+    <servidor-publico nombre="" cargo="" />
+    <servidor-publico nombre="&#8212; Averiguación Previa" cargo="">
+        <!--<contacto telefono="" extension="" />
+        <contacto></contacto>-->
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Rita Gabriela López Gómez" cargo="Directora de Área">
+        <contacto telefono="5518-1685" extension="1184" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Adriana Yazbeth Nieto Ortiz" cargo="Subdirectora de Área">
+        <contacto telefono="" extension="1252" />
+    </servidor-publico>
+    <servidor-publico nombre="" cargo="" />
+    <servidor-publico nombre="&#8212; Primera Instancia" cargo="" />
+    <servidor-publico nombre="" cargo="Director de Área">
+        <contacto telefono="5512-6593" extension="1177" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Erika Gutiérrez Islas" cargo="Subdirectora de Área">
+        <contacto telefono="" extension="1249" />
+    </servidor-publico>
+    <servidor-publico nombre="" cargo="" />
+    <servidor-publico nombre="&#8212; Segunda Instancia" cargo="" />
+    <servidor-publico nombre="Lic. Marcela Morales Gutiérrez" cargo="Directora de Área">
+        <contacto telefono="5512-6521" extension="1178" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Luis Demetrio Trejo Hernández" cargo="Subdirector de Área">
+        <contacto telefono="" extension="1251" />
+    </servidor-publico>
+    <servidor-publico nombre="" cargo="" />
+    <servidor-publico nombre="&#8212; Ejecución de Sentencias" cargo="" />
+    <servidor-publico nombre="Dr. Alejandro Montaño Salazar" cargo="Director de Área">
+        <contacto telefono="5521-3511 | 5512-7398 (denuncias)" extension="1173" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Isabel Santiago Alavez" cargo="Subdirectora de Área">
+        <contacto telefono="5518-2525" extension="N/A" />
+    </servidor-publico>
+    <servidor-publico nombre="" cargo="" />
+    <servidor-publico nombre="&#8212; Prestación del Servicio de Defensa Penal en la Ciudad de México" cargo="" />
+    <servidor-publico nombre="Lic. Joel René García Cervantes" cargo="Director de Área">
+        <contacto telefono="5521-3823" extension="1149" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Claudia Lizeth Montoya Rivera" cargo="Defensora Pública">
+        <contacto telefono="" extension="1242" />
+    </servidor-publico>
+    <servidor-publico nombre="" cargo="" />
+    <servidor-publico nombre="&#8212; Evaluadores en materia Penal" cargo="" />
+    <servidor-publico nombre="Lic. Jorge Jacinto Aldana Rivas" cargo="">
+        <contacto telefono="" extension="1217" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Luis Gabriel Carreón Amezquita" cargo="">
+        <contacto telefono="" extension="1218" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Eduardo Amador Herrera" cargo="">
+        <contacto telefono="" extension="1221" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Alfredo Arreola Sánchez" cargo="">
+        <contacto telefono="" extension="1223" />
+    </servidor-publico>
+    </area>
+    <area nombre="Unidad de Asesoría Jurídica y Evaluación del Servicio">
+    <contacto observaciones="" />
+    <servidor-publico nombre="Lic. Enrique Alfredo Tamayo Díaz" cargo="Titular de la Unidad">
+        <contacto telefono="5521-4367" extension="1145" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. José Antonio Juárez Castro" cargo="Coordinador Técnico">
+        <contacto telefono="5512-8005" extension="1122" />
+    </servidor-publico>
+    <servidor-publico nombre="" cargo="Secretario Técnico de la Unidad">
+        <contacto telefono="5512-8045" extension="1147" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Manola Teresa Rosas Vargas" cargo="Directora de Área I">
+        <contacto telefono="5521-4843" extension="1148" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Luis Ramos Siliceo" cargo="Director de Área II">
+        <contacto telefono="5521-4564" extension="1146" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Luis Antonio Aguilar Sánchez" cargo="Jefe de Departamento">
+        <contacto telefono="" extension="1240" />
+    </servidor-publico>
+    <servidor-publico nombre="" cargo="" />
+    <servidor-publico nombre="&#8212; Prestación del Servicio de Asesoría Jurídica en la Ciudad de México" cargo="" />
+    <servidor-publico nombre="Lic. Mario Adrián Montellano Calleros" cargo="Director de Área">
+        <contacto telefono="5521-3546" extension="1121" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Miguel Cruz Hernández" cargo="Subdirector de Área">
+        <contacto telefono="" extension="1150" />
+    </servidor-publico>
+    </area>
+    <area nombre="Unidad de Supervisión y Control de Defensa Penal y Asesoría Jurídica">
+    <contacto observaciones="" />
+    <servidor-publico nombre="Lic. Susana Paczka Carmona" cargo="Titular de la Unidad">
+        <contacto telefono="5521-2950" extension="1183" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Beatriz Armendariz Gómez" cargo="Coordinadora Técnica">
+        <contacto telefono="" extension="1271" />
+    </servidor-publico>
+    <servidor-publico nombre="Federico Steck de la Vega" cargo="Coordinador Técnico B">
+        <contacto telefono="5518-3425 (fax)" extension="N/A" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Vanessa Villa Magdaleno" cargo="Subdirectora de Área">
+        <contacto telefono="" extension="1258" />
+    </servidor-publico>
+    <servidor-publico nombre="" cargo="Director de Área I">
+        <contacto telefono="5521-5351" extension="1253" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. María de Lourdes Priante Hernández" cargo="Directora de Área II">
+        <contacto telefono="5521-8062" extension="1180" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Octavio Valdés Vázquez" cargo="Director de Área III">
+        <contacto telefono="5518-2526" extension="1186" />
+    </servidor-publico>
+    </area>
+    <area nombre="Unidad de Apoyo Operativo">
+    <contacto observaciones="" />
+    <servidor-publico nombre="Lic. Diana Talavera Flores" cargo="Titular de la Unidad" semblanza="Diana_Flores">
+        <contacto telefono="" extension="1170" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Laura Alicia Ramírez Mendoza" cargo="Coordinadora Técnica">
+        <contacto telefono="5521-2971" extension="1290" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Jorge Martínez Durán" cargo="Secretario Técnico de la Unidad">
+        <contacto telefono="5512-6554 | 5521-6066" extension="1171" />
+    </servidor-publico>
+    <servidor-publico nombre="" cargo="" />
+    <servidor-publico nombre="&#8212; Planeación y Gestión del Gasto" cargo="" />
+    <servidor-publico nombre="Lic. Daniel Ortiz Delgado" cargo="Director de Área">
+        <contacto telefono="" extension="1174" />
+    </servidor-publico>
+    <servidor-publico nombre="C.P. Gabriela Alfaro Alfaro" cargo="Subdirectora de Área (estadística)">
+        <contacto telefono="" extension="7777" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Alejandro Lucero Parada" cargo="Subdirector de Área (viáticos)">
+        <contacto telefono="5521-4463" extension="N/A" />
+    </servidor-publico>
+    <servidor-publico nombre="" cargo="" />
+    <servidor-publico nombre="&#8212; Personal" cargo="" />
+    <servidor-publico nombre="" cargo="Director de Área">
+        <contacto telefono="5521-6212" extension="1190" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Genoveva Álvarez Solís" cargo="Subdirectora de Área (personal mandos medios)">
+        <contacto telefono="" extension="5555" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Miguel Ángel Hernández González" cargo="Oficial Administrativo (personal mandos medios)">
+        <contacto telefono="" extension="1182" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Francisco Florencio Mondragón Reyes" cargo="Subdirector de Área (personal operativo)">
+        <contacto telefono="" extension="1188" />
+    </servidor-publico>
+    <servidor-publico nombre="" cargo="" />
+    <servidor-publico nombre="&#8212; Soporte Técnico y Apoyo Operativo" cargo="" />
+    <servidor-publico nombre="Lic. Norma Elena Espinosa Celaya" cargo="Directora de Área">
+        <contacto telefono="5521-3521 " extension="1153" />
+    </servidor-publico>
+    <servidor-publico nombre="Arq. Ausencio Mondragón Manuel" cargo="Subdirector de Área (apoyo operativo)">
+        <contacto telefono="" extension="1153" />
+    </servidor-publico>
+    <servidor-publico nombre="Ing. Iván García Zaldívar" cargo="Jefe de Departamento">
+        <contacto telefono="" extension="1254" />
+    </servidor-publico>
+    <servidor-publico nombre="L.S.C. Adolfo Cruz Luciano" cargo="Subdirector de Área (soporte técnico)">
+        <contacto telefono="5521-3380" extension="1111" />
+    </servidor-publico>
+    <servidor-publico nombre="Lic. Juan Ramón Méndez González" cargo="Jefe de Departamento">
+        <contacto telefono="" extension="1259" />
+    </servidor-publico>
+    </area>
+    <area nombre="Biblioteca">
+    <servidor-publico nombre="Mtra. Noemí Dolores Acosta Fuentes" cargo="Jefa de Departamento">
+        <contacto extension="1151" />
+    </servidor-publico>
+    </area>
+    <area nombre="Servicio Médico">
+    <servidor-publico nombre="Dr. Fernando Guerra Ascencio">
+        <contacto telefono="5512-8023" extension="1136" />
+    </servidor-publico>
+    <servidor-publico nombre="Angélica Galindo Martínez" cargo="Enfermera">
+        <contacto extension="1165" />
+    </servidor-publico>
+    </area>
+</unidad-administrativa>

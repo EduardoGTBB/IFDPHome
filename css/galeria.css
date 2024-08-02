@@ -1,0 +1,345 @@
+@charset "utf-8";
+p.parrafo-galeria {
+    font-size: 1.5em;
+    line-height: 1;
+    text-align: center;
+}
+
+p.parrafo-galeria-first-picture {
+    font-size: 1.5em;
+    line-height: 1;
+    text-align: center;
+}
+
+p.parrafo-galeria-galery-picture {
+    font-size: 1em;
+    line-height: 1;
+    font-weight: normal;
+    text-align: center;
+    height: 100px !important;
+    display: table-cell;
+    vertical-align: text-top;
+}
+
+p.parrafo-galeria-galery-picture-completa {
+    font-size: 1em;
+    line-height: 1;
+    font-weight: normal;
+    text-align: center;
+    height: 110px !important;
+    vertical-align: text-top;
+}
+
+small.fecha-galeria-first-picture {
+    text-align: center;
+    font-size: 0.6em;
+    border-left: 1px dotted #cccccc;
+    border-right: 1px dotted #cccccc;
+    padding: 0px 4px;
+}
+
+small.fecha-galeria-galery-picture {
+    line-height: 30px;
+    font-weight: normal;
+    border-left: 1px dotted #cccccc;
+    border-right: 1px dotted #cccccc;
+    padding: 0px 4px;
+}
+
+.cargando-galeria {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: url('../img/loading.gif') no-repeat 50% 50%;
+    background-color: #ffffff;
+}
+
+.envolvente-galeria {
+    position: relative;
+    margin: 0px auto;
+    top: 0px;
+    left: 0px;
+    width: 600px;
+    height: 490px;
+    overflow: hidden;
+    visibility: hidden;
+    background-color: transparent;
+    border: 1px solid #f2f2f2;
+}
+
+.contenido-imagenes {
+    cursor: default;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 592px;
+    height: 490px;
+    max-height: 88% !important;
+    overflow: hidden;
+    margin: 2px !important;
+}
+
+.contenido-imagenes img {
+    width: 600px !important;
+    height: auto !important;
+    min-height: 90% !important;
+}
+
+.puntero {
+    cursor: pointer;
+}
+
+.jssora05l,
+.jssora05r {
+    display: block;
+    font-size: 1.3em;
+    position: absolute;
+    cursor: pointer;
+    opacity: 0.2;
+}
+
+.jssora05l:hover,
+.jssora05r:hover {
+    opacity: 0.9;
+}
+
+.jssort01 .p {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 72px;
+    height: 72px;
+}
+
+.jssort01 .t {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+.jssort01 .w {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+.jssort01 .c {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 72px;
+    height: 72px;
+    box-sizing: content-box;
+    background: rgba(51, 51, 51, 0.6);
+}
+
+.jssort01 .pav .c {
+    top: 0px;
+    left: 0px;
+    width: 70px;
+    height: 70px;
+    background: rgba(255, 255, 255, 0.0);
+}
+
+.jssort01 .p:hover .c {
+    top: 0px;
+    left: 0px;
+    width: 70px;
+    height: 70px;
+    border: 1px solid #ffffff;
+    background-position: 50% 50%;
+}
+
+.jssort01 .p.pdn .c {
+    background-position: 50% 50%;
+    width: 70px;
+    height: 70px;
+    border: 1px solid #ffffff;
+}
+
+.jssora05l.arrow-left {
+    top: 170px;
+    left: 8px;
+}
+
+.jssora05r.arrow-right {
+    top: 170px;
+    right: 8px;
+}
+
+.jssort01.cinta-thumbs {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    width: 650px;
+    height: 100px;
+    background-color: #1b1b1b;
+    display: block;
+}
+
+.overlay-wrapper {
+    position: relative;
+    display: block;
+}
+
+.overlay-wrapper .overlay {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: #000000;
+    opacity: 0;
+    padding: 12em 1em;
+    text-align: center;
+    transition: all 0.3s ease-in;
+    display: block;
+    color: #ffffff;
+    width: 100%;
+    margin: 0px auto;
+}
+
+.overlay-wrapper .overlay.galery-picture {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: #000000;
+    opacity: 0;
+    padding: 5em 1em;
+    text-align: center;
+    transition: all 0.3s ease-in;
+    display: block;
+    color: #ffffff;
+}
+
+.overlay-wrapper:hover .overlay {
+    opacity: 0.6;
+}
+
+.overlay-wrapper.galery-picture {
+    min-height: 50px;
+}
+
+.img-responsive.first-picture {
+    margin: 20px auto;
+}
+
+.img-responsive.galery-picture {
+    margin: 30px auto 5px;
+    height: 200px;
+    overflow: visible;
+}
+
+@media (max-width: 320px) {
+    div.col-xs-6.boton-galeria {
+        margin-left: -11px;
+    }
+    div.col-xs-12 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    p.parrafo-galeria-galery-picture-completa {
+        height: 125px !important;
+    }
+    .jssora05l,
+    .jssora05r {
+        font-size: 2.5em !important;
+    }
+    .img-responsive.galery-picture {
+        margin: 30px auto 4px;
+        height: 120px;
+        overflow: visible;
+    }
+    .overlay-wrapper.galery-picture {
+        min-height: 120px;
+    }
+    .jssora05l.arrow-left {
+        top: 145px;
+    }
+    .jssora05r.arrow-right {
+        top: 145px;
+    }
+}
+
+@media (max-width: 375px) and (min-width: 321px) {
+    p.parrafo-galeria-galery-picture-completa {
+        height: 125px !important;
+    }
+    div.col-xs-6.boton-galeria {
+        padding-left: 0px !important;
+    }
+    .jssora05l,
+    .jssora05r {
+        font-size: 2.5em !important;
+    }
+}
+
+@media (max-width: 480px) and (min-width: 376px) {
+    .jssora05l,
+    .jssora05r {
+        font-size: 2em !important;
+    }
+}
+
+@media (max-width: 668px) {
+    p.parrafo-galeria-galery-picture {
+        font-size: 0.9em;
+        margin-bottom: 2px;
+        padding: 0px !important;
+    }
+    p.parrafo-galeria-galery-picture-completa {
+        font-weight: normal;
+        padding: 0px !important;
+    }
+    p.subparrafo-galeria-galery-picture {
+        font-size: 0.9em;
+    }
+    .img-responsive.galery-picture {
+        margin: 30px auto 4px;
+        height: 160px;
+        overflow: hidden;
+    }
+    .overlay-wrapper.galery-picture {
+        min-height: 160px;
+    }
+}
+
+@media (max-width: 1024px) {
+    p.parrafo-galeria {
+        font-size: 1.2em;
+        font-weight: 600;
+    }
+    p.parrafo-galeria-first-picture {
+        font-size: 1.2em;
+        font-weight: 600;
+    }
+    p.parrafo-galeria-galery-picture {
+        font-size: 1em;
+        height: 125px !important;
+        padding: 0px 10%;
+    }
+    p.parrafo-galeria-galery-picture-completa {
+        font-weight: normal;
+        height: 115px !important;
+        padding: 0px 25%;
+        border-bottom: 1px solid #dddddd;
+    }
+    p.subparrafo-galeria-galery-picture {
+        text-align: center;
+    }
+    .overlay-wrapper:hover .overlay {
+        opacity: 0 !important;
+    }
+    .btn-default:hover {
+        background-color: #f2f2f2;
+        border-color: #cccccc;
+        color: #cccccc;
+    }
+}

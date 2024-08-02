@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'FontIfdp';
+    src: url(../fonts/fontifdp-webfont.eot?v=1.0);
+    font-display: auto;
+    src: url(../fonts/fontifdp-webfont.eot?#iefix&v=1.0) format("embedded-opentype"), url(../fonts/fontifdp-webfont.woff2?v=1.0) format("woff2"), url(../fonts/fontifdp-webfont.woff?v=1.0) format("woff"), url(../fonts/fontifdp-webfont.ttf?v=1.0) format("truetype"), url(../fonts/fontifdp-webfont.svg?v=1.0#fontifdpregular) format("svg")
+}
+
+.fc {
+    display: inline-block;
+    font: normal normal normal 40px/1 FontIfdp;
+    font-size: inherit;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.fc-LogotipoCJFHorizontal:before {
+    content: "\f2b4"
+}
+
+.fc-LogotipoCJFVertical:before {
+    content: "\f2b5"
+}
+
+.fc-lenguasindigenas:before {
+    content: "\f2b6"
+}
+
+.fc-salaPrensaCanalJudicial:before {
+    content: "\f2b7"
+}
+
+.fc-LogotipoInfoMex:before {
+    content: "\f2b8"
+}
+
+.fc-canalJudicial:before {
+    content: "\f2b9"
+}
+
+.fc-salaPrensaRadio:before {
+    content: "\f2ba"
+}
+
+.fc-salaPrensaMultimedia:before {
+    content: "\f2bb"
+}
+
+.fc-LogotipoPlataformaMin2:before {
+    content: "\f2bc"
+}
+
+.fc-VideoTeca:before {
+    content: "\f2be"
+}
+
+.fc-Lenguas:before {
+    content: "\f2bf"
+}
+
+.fc-LogoIFDP:before {
+    content: "\f2c0"
+}
+
+.fc-Huella:before {
+    content: "\f2c2"
+}
+
+.fc-Sentencia:before {
+    content: "\f2c3"
+}

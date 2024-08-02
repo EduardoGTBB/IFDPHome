@@ -1,0 +1,101 @@
+html,
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, Roboto, sans-serif !important;
+    font-size: 100% !important;
+}
+
+div,
+a {
+    font-family: Arial, "Helvetica Neue", Helvetica, Roboto, sans-serif !important;
+}
+
+.bp-cursor-frame {
+    border-color: #24135F;
+}
+
+.bp-highlight-frame {
+    border-color: #24135F;
+}
+
+.bp-highlight-dot-frame {
+    border-color: #24135F;
+}
+
+.bp-corner-all {
+    border-radius: 5px;
+}
+
+.bt-item-frame {
+    border: 1px solid #CCCCCC;
+    background: #F2F2F2;
+    color: #333333;
+}
+
+.bp-item {
+    cursor: pointer;
+}
+
+.bp-item-email {
+    top: 50px;
+    left: 10px;
+    width: 300px;
+    height: 36px;
+    font-size: .825em;
+}
+
+.bp-item-phone {
+    top: 70px;
+    left: 10px;
+    width: 200px;
+    height: 36px;
+    font-size: .825em;
+}
+
+.bp-description {
+    color: #333333;
+    font-size: .7800em;
+    font-weight: normal;
+    height: 36px;
+    left: 10px;
+    line-height: 1.200em;
+    top: 30px;
+    width: 95%;
+}
+
+.bp-title-frame {
+    font-size: .900em;
+    margin-left: 2px;
+    margin-top: 2px;
+    /*width: 276px;*/
+    width: 98.9%;
+    height: 20px;
+    text-align: center;
+}
+
+.bp-title {
+    font-weight: bold;
+    font-size: .8500em !important;
+    top: 3px;
+    left: 1px;
+    width: 100%;
+    height: 36px;
+    text-align: center;
+}
+
+.bp-title-unico {
+    font-weight: bold;
+    font-size: .8500em !important;
+    top: 3px;
+    left: 1px;
+    width: 100%;
+    height: 36px;
+    text-align: center;
+    background-color: red;
+}
+
+#diagramContainer {
+    width: 100%;
+    height: 450px;
+    border-style: none;
+    border-width: 1px;
+}

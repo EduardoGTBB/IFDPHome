@@ -1,0 +1,836 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-left"
+			],
+			[
+				"_D",
+				"_domElment"
+			],
+			[
+				"IMG",
+				"img-fluid"
+			],
+			[
+				"bo",
+				"boletin11"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"l",
+				"x-large\tfont-size"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"col-md",
+				"col-md-6"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"im",
+				"img-fluid"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"web",
+				"website"
+			],
+			[
+				"sp",
+				"spotify"
+			],
+			[
+				"lin",
+				"linkedin"
+			],
+			[
+				"fa",
+				"facebook"
+			],
+			[
+				"vw",
+				"vw_All"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"auto",
+				"autoplay"
+			],
+			[
+				"backgrou",
+				"background-image\tproperty"
+			],
+			[
+				"open",
+				"openUrl"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"div1_",
+				"div1_header5"
+			],
+			[
+				"div",
+				"div1_header5-a"
+			],
+			[
+				"col-sm-",
+				"col-md-offset-7"
+			],
+			[
+				"col",
+				"col-sm-12"
+			],
+			[
+				"bacgr",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-repeat\tproperty"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"Sala",
+				"salaPrensa"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"_",
+				"_mes"
+			],
+			[
+				"get",
+				"getDate"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"pdf",
+				"pdfSubtitle"
+			],
+			[
+				"Get",
+				"_GET"
+			],
+			[
+				"data-",
+				"data-target"
+			],
+			[
+				"te",
+				"text-right"
+			],
+			[
+				"col-md-of",
+				"col-md-offset-6"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"sma",
+				"smaller\tfont-size"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"lar",
+				"larger\tfont-size"
+			],
+			[
+				"ul",
+				"ul-resources-boletin"
+			],
+			[
+				"contenidos",
+				"contenidosJusticiaAldia"
+			],
+			[
+				"conteidos",
+				"contenidosPuntoDeVista"
+			],
+			[
+				"data",
+				"data-pdf-target"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"img",
+				"imgHeader-laJudicaturaHoy"
+			],
+			[
+				"La",
+				"LaJudicaturaHoy"
+			],
+			[
+				"fc",
+				"fcTitulo"
+			],
+			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"page",
+				"_pageTitle"
+			],
+			[
+				"s",
+				"sMes"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"f",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"creat",
+				"createDivBloques"
+			],
+			[
+				"date",
+				"dateToPrint"
+			],
+			[
+				"t",
+				"tbody\tTag"
+			],
+			[
+				"current",
+				"currentYear"
+			],
+			[
+				"on",
+				"onSelect"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"darkg",
+				"darkgray"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"b",
+				"blueviolet"
+			],
+			[
+				"col-o",
+				"col-lg-offset-1"
+			],
+			[
+				"wo",
+				"word-wrap"
+			],
+			[
+				"sub",
+				"subtitle"
+			],
+			[
+				"th",
+				"thumbnails"
+			],
+			[
+				"a",
+				"active"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"border-top",
+				"border-top-style"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"SUBDI",
+				"SUBDIRECCIÓN"
+			],
+			[
+				"lig",
+				"lightslategrey"
+			],
+			[
+				"panel",
+				"panel-body"
+			],
+			[
+				"Atrib",
+				"Atribuciones"
+			],
+			[
+				"dar",
+				"darkgray"
+			],
+			[
+				"light",
+				"lightgray"
+			],
+			[
+				"text-",
+				"text-justify"
+			],
+			[
+				"tx",
+				"text"
+			],
+			[
+				"T",
+				"top"
+			],
+			[
+				"ve",
+				"vertical-align"
+			],
+			[
+				"tex-",
+				"text-decoration"
+			],
+			[
+				"cli",
+				"click"
+			],
+			[
+				"tr",
+				"trigger"
+			],
+			[
+				"tri",
+				"trigger"
+			],
+			[
+				"tog",
+				"toggle"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"fil",
+				"filters"
+			],
+			[
+				"fit",
+				"filters"
+			],
+			[
+				"filter",
+				"filters"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"subs",
+				"substring"
+			],
+			[
+				"smal",
+				"xx-small\tfont-size"
+			],
+			[
+				"video",
+				"videoName"
+			],
+			[
+				"pr",
+				"prepend"
+			],
+			[
+				"Circ",
+				"Circulares"
+			],
+			[
+				"border-",
+				"border-color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"date-",
+				"date-fin"
+			],
+			[
+				"TABLE",
+				"table\tTag"
+			],
+			[
+				"sur",
+				"sUriEncryptToken"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"pro",
+				"protocol"
+			],
+			[
+				"re",
+				"registro"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"u",
+				"undefined"
+			],
+			[
+				"fin",
+				"dateFin"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"Info",
+				"informacion"
+			],
+			[
+				"fuc",
+				"function"
+			],
+			[
+				"fir",
+				"first-child"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"sort",
+				"sortTable"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"su",
+				"sublist"
+			],
+			[
+				"tab",
+				"tab-pane"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"tet",
+				"text"
+			],
+			[
+				"Lista",
+				"ListAspirantesNL"
+			],
+			[
+				"w",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"char",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"html\t",
+				"Set Syntax: HTML"
+			],
+			[
+				"chaR",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"chart",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"CHAR",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"chatr",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"cchar",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"CHART",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"cgar",
+				"Package Control: Add Repository"
+			],
+			[
+				"c har",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"CAHR",
+				"W3C Validators: Validate HTML 4.01 Transitional"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"urle",
+				"URL Encode"
+			],
+			[
+				"url",
+				"URL Encode"
+			],
+			[
+				"chare",
+				"Sublimerge: Show Changes Introduced in Revision..."
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"File: Save All"
+			],
+			[
+				"cahr",
+				"W3C Validators: Validate HTML 4.01 Transitional"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"html en",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"car",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"reposi",
+				"Package Control: Add Repository"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (ASP)"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"//w3/ifdproot",
+		"//w3/ifdproot/include",
+		"//w3/ifdproot/include/sections"
+	],
+	"file_history":
+	[
+		"//w3/ifdproot/include/sections/comunicados.htm",
+		"//cjfw3/cjfroot/SintesisInfoRelevante.html",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/LaJudicaturaHoy.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/micrositios/UIRMJL/css/bootstrap.min.css.map",
+		"//qacjfportalespba/inetpub/dgej/paginas/estadisticas/mensualDatosAbiertos.htm",
+		"//qacjfportalespba/inetpub/dgej/paginas/estadisticas/laboralDatosAbiertos.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/include/laJudicaturaHoy13.html",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/include/laJudicaturaHoy.html",
+		"//cjfiisadm/wwwroot/micrositios/SEA/data/directorio/directorio.xml",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/include/laJudicaturaHoy_tempo.html",
+		"//w3/ifdproot/paginas/informacion/materialesDigitales.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/contenidosAudios.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/podcastSpotify.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/contenidosPuntoDeVista.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/css/judicaHoy_v2.0.css",
+		"/E/inetpub/wwwroot/TVS_Repository/PortalConsejo/branches/prod/portal/micrositios/VJ/paginas/serviciosTramitesCompliador.htm",
+		"//prdvisitaduria/Site/paginas/servicios/compiladorCriteriosV2.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/LaJudicaturaHoyWeb.htm",
+		"/E/inetpub/wwwroot/Pruebas/KendoUI/micrositio1/paginas/servicios/compiladorCriterios/listado.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/data/json/CTCatalogos.json",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/data/json/Documento.json",
+		"//qaCJFPORTALESPBA/cjfroot/wcjf/micrositios/UIRMJL/paginas/equipo.htm",
+		"//qaCJFPORTALESPBA/cjfroot/wcjf/micrositios/UIRMJL/paginas/directorio.htm",
+		"//qaCJFPORTALESPBA/cjfroot/wcjf/micrositios/UIRMJL/index.htm",
+		"//cjfiisadm/wwwroot/slider.html",
+		"//cjfiisadm/wwwroot/include/sections/carrousel_areas.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/contenidos.html",
+		"//cjfw3/cjfroot/armonizacionContable.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/conoceConsejo.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/designacion.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/index.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/resources/audioPlayer.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/multimedia.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/notas.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/contenidosJusticiaEnElMundo.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/contenidosJusticiaAldia.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/podcast.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/plugins/pdfjs/build/pdf.worker.js.map",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/contenidosVideos.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/discursos.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/index - copia.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/judicatura.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/comunicados - copia.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/comunicados.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/resourcesBoletinHoy.html",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/RevistaIgualdad.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/tv.htm",
+		"/E/inetpub/wwwroot/TVS_Repository/cjfInternetBranches/prod/portal/SalaPrensa/css/salaPrensa.css",
+		"//cjfw3/cjfroot/css/cjf.css"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 172.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"comunicado"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 88.0
+	},
+	"pinned_build_system": "",
+	"project": "mis documentos.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

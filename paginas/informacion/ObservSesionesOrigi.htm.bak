@@ -1,0 +1,110 @@
+<div role="tabpanel">
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="active">
+            <a href="#2024" aria-controls="2024" role="tab" data-toggle="tab">2024</a>
+        </li>
+        <li>
+            <a href="#2023" aria-controls="2023" role="tab" data-toggle="tab">2023</a>
+        </li>
+    </ul>
+</div>
+<div class="tab-content">
+    <div role="tabpanel" class="tab-pane active table-responsive" id="2024">
+       <!--  <ul>
+            <li>
+                <a href="../paginas/SesionesIFDP/Sesion1-2024.htm" aria-controls="2024" role="tab" style="color: blue;">Sesion1</a>
+            </li>
+            <li>
+                <a href="#Sesion1" aria-controls="2024" role="tab" style="color: blue;">Sesion2</a>
+            </li>
+        </ul> -->
+        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+            <div class="panel panel-default">
+                <div class="panel-heading" role="tab" id="headingPenAgu">
+                    <h3 class="panel-title">
+                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSesion1" aria-expanded="false" aria-controls="collapseSesion1">
+                            Sesión 1
+                        </a>
+                    </h3>
+                </div>
+            </div>
+            <div id="collapseSesion1" class="panel-collapse collapse" role="tabpanel" aria-expanded="false">
+                <div class="panel-body" style="padding: 5px">
+                    <div id="Sesion1-content"><span class="sr-only">Sesión 1 Contenido de Observatorios</span></div>
+                    <script>
+                    $('#Sesion1-content').load('../paginas/SesionesIFDP/Sesion1-2024.htm');
+                    </script>
+                </div>
+            </div>
+        </div>
+        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+            <div class="panel panel-default">
+                <div class="panel-heading" role="tab" id="headingPenAgu">
+                    <h3 class="panel-title">
+                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSesion2" aria-expanded="false" aria-controls="collapseSesion2">
+                            Sesión 2
+                        </a>
+                    </h3>
+                </div>
+            </div>
+            <div id="collapseSesion2" class="panel-collapse collapse" role="tabpanel" aria-expanded="false">
+                <div class="panel-body" style="padding: 5px">
+                    <div id="Sesion2-content"><span class="sr-only">Sesión 2 Contenido de Observatorios</span></div>
+                    <script>
+                    $('#Sesion2-content').load('../paginas/SesionesIFDP/Sesion2-2024.htm');
+                    </script>
+                </div>
+            </div>
+        </div>
+        <!--<div role="tabpanel" class="tab-pane fade" id="Sesion1">
+        </div>-->
+    </div>
+    <div role="tabpanel" class="tab-pane table-responsive" id="2023">
+        <!-- <ul>
+            <li class="list">
+                <a href="#">Sesion1</a>
+            </li class="list">
+            <li class="list">
+                <a href="#">Sesion2</a>
+            </li class="list">
+        </ul> -->
+        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+            <div class="panel panel-default">
+                <div class="panel-heading" role="tab" id="headingPenAgu">
+                    <h3 class="panel-title">
+                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSesion1/23" aria-expanded="false" aria-controls="collapseSesion1/23">
+                            Sesión 1
+                        </a>
+                    </h3>
+                </div>
+            </div>
+            <div id="collapseSesion1/23" class="panel-collapse collapse" role="tabpanel" aria-expanded="false">
+                <div class="panel-body" style="padding: 5px">
+                    <div id="Sesion-123"><span class="sr-only">Sesión 1 Contenido de Observatorios</span></div>
+                    <script>
+                    $('#Sesion-123').load('../paginas/SesionesIFDP/Sesion1-2024.htm');
+                    </script>
+                </div>
+            </div>
+        </div>
+        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+            <div class="panel panel-default">
+                <div class="panel-heading" role="tab" id="headingPenAgu">
+                    <h3 class="panel-title">
+                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSesion2/23" aria-expanded="false" aria-controls="collapseSesion2/23">
+                            Sesión 2
+                        </a>
+                    </h3>
+                </div>
+            </div>
+            <div id="collapseSesion2/23" class="panel-collapse collapse" role="tabpanel" aria-expanded="false">
+                <div class="panel-body" style="padding: 5px">
+                    <div id="Sesion-223"><span class="sr-only">Sesión 2 Contenido de Observatorios</span></div>
+                    <script>
+                    $('#Sesion-223').load('../paginas/SesionesIFDP/Sesion2-2024.htm');
+                    </script>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

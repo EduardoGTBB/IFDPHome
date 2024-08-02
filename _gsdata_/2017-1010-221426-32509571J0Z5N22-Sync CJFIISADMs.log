@@ -1,0 +1,18 @@
+2017-10-10 22:14:27: connecting to //10.200.66.244/d$: Las conexiones múltiples para un servidor o recurso compartido compatible por el mismo usuario, usando más de un nombre de usuario, no están permitidas. Desconecte todas las conexiones anteriores al servidor o recursos compartido e inténtelo de nuevo.  (error 1219)
+2017-10-10 22:14:27: -- Análisis iniciado por User Command
+2017-10-10 22:14:27: I: State file does not exist: //w3/D$/Inetpub/ifdproot/_gsdata_/_file_state_v4._gs
+2017-10-10 22:14:52: D: State file does not exist: //10.200.66.244/d$/Inetpub/ifdproot/_gsdata_/_file_state_v4._gs
+2017-10-10 22:15:19: Cambios: 5, Conflictos: 0, CopiaFecha: 0, CopiaEstado: 2,708, Errores: 0, All: 2816
+2017-10-10 22:15:19: Left to Right: Copy File: 5 
+2017-10-10 22:15:19: -- Análisis Completo. Tiempo 00:00:53, Velocidad: 53 archivo/s
+2017-10-10 22:15:19: 
+2017-10-10 22:15:26: connecting to //10.200.66.244/d$: Las conexiones múltiples para un servidor o recurso compartido compatible por el mismo usuario, usando más de un nombre de usuario, no están permitidas. Desconecte todas las conexiones anteriores al servidor o recursos compartido e inténtelo de nuevo.  (error 1219)
+2017-10-10 22:15:26: New _gsdata_ folder(s) created, so rescan all job folders for their ghosts
+2017-10-10 22:15:26: == Sinc comenzada por User Command
+2017-10-10 22:15:43: Copiar Sobre '//w3/D$/Inetpub/ifdproot/index.htm' -> '//10.200.66.244/d$/Inetpub/ifdproot/index.htm'
+2017-10-10 22:15:44: Copiar Sobre '//w3/D$/Inetpub/ifdproot/paginas/informacion/boletinHistorico.htm' -> '//10.200.66.244/d$/Inetpub/ifdproot/paginas/informacion/boletinHistorico.htm'
+2017-10-10 22:15:45: Copiar Nueva '//w3/D$/Inetpub/ifdproot/paginas/informacion/participacionesIFDP/2017/participa_sep_2017.htm' -> '//10.200.66.244/d$/Inetpub/ifdproot/paginas/informacion/participacionesIFDP/2017/participa_sep_2017.htm'
+2017-10-10 22:15:46: Copiar Sobre '//w3/D$/Inetpub/ifdproot/paginas/informacion/participacionesIFDP.htm' -> '//10.200.66.244/d$/Inetpub/ifdproot/paginas/informacion/participacionesIFDP.htm'
+2017-10-10 22:15:48: Copiar Sobre '//w3/D$/Inetpub/ifdproot/web.config' -> '//10.200.66.244/d$/Inetpub/ifdproot/web.config'
+2017-10-10 22:15:49: == Sinc. Completa. Tiempo: 00:00:23, Velocidad: 497 KB/s, OK: 2,713, Errores: 0
+2017-10-10 22:15:49: 

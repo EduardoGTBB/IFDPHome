@@ -1,0 +1,400 @@
+<div class="row">
+    <div class="col-md-12">
+        <ul>
+            <li class="list">
+                <span class="title" style="font-size: 1.4em">
+                    En materia sustantiva
+                </span>
+                <ul>
+                    <li class="sublist">Secretar&iacute;a de Gobernaci&oacute;n, (programa paisano).</li>
+                    <li class="sublist">Fundaci&oacute;n Mexicana de Reintegraci&oacute;n Social Reintegra A.C., y la Fundaci&oacute;n Telmex, A.C.</li>
+                    <li class="sublist">Comisi&oacute;n Nacional de Derechos Humanos, CNDH.</li>
+                    <li class="sublist">Comisi&oacute;n Nacional para la Protecci&oacute;n y Defensa de los Usuarios de Servicios Financieros, CONDUSEF.</li>
+                    <li class="sublist">Comisi&oacute;n Nacional de Arbitraje M&eacute;dico, CONAMED.</li>
+                    <li class="sublist">Instituto Nacional del Derecho de Autor, INDAUTOR.</li>
+                    <li class="sublist">Instituto Nacional de las Personas Adultas Mayores, INAPAM.</li>
+                    <li class="sublist">Comisi&oacute;n de Conciliaci&oacute;n y Arbitraje M&eacute;dico del Estado de M&eacute;xico.</li>
+                    <li class="sublist">Tribunal de lo Contencioso Administrativo del Estado de Quer&eacute;taro.</li>
+                    <li class="sublist">Comisi&oacute;n Nacional para el Desarrollo de los Pueblos Ind&iacute;genas, CDI.</li>
+                    <li class="sublist">Instituto Nacional de las Mujeres, INMUJERES.</li>
+                    <li class="sublist">Procuradur&iacute;a Social del Estado de Jalisco.</li>
+                    <li class="sublist">Tribunal de lo Contencioso Administrativo del Distrito Federal.</li>
+                </ul>
+                <br>
+                <br>
+            </li>
+            <li class="list">
+                <span class="title" style="font-size: 1.4em">
+                    En materia de peritajes
+                </span>
+            </li>
+            <li class="list">
+                <div class="table-responsive">
+                    <table class="table text-left">
+                        <thead>
+                            <tr>
+                                <th>Delegaci&oacute;n</th>
+                                <th>Nombre de la instituci&oacute;n</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Chihuahua</td>
+                                <td>Procuradur&iacute;a General de Justicia del Estado de Chihuahua.</td>
+                            </tr>
+                            <tr>
+                                <td>Durango</td>
+                                <td>Procuradur&iacute;a General de Justicia del Estado de Durango.</td>
+                            </tr>
+                            <tr>
+                                <td>San Luis Potos&iacute;</td>
+                                <td>Procuradur&iacute;a General de Justicia del Estado de San Luis Potos&iacute;.</td>
+                            </tr>
+                            <tr>
+                                <td>Sinaloa</td>
+                                <td>Procuradur&iacute;a General de Justicia del Estado de Sinaloa.
+                                    <br>Instituto Tecnol&oacute;gico Superior de Sinaloa, A.C.</td>
+                            </tr>
+                            <tr>
+                                <td>Tamaulipas</td>
+                                <td>Procuradur&iacute;a General de Justicia del Estado de Tamaulipas.</td>
+                            </tr>
+                            <tr>
+                                <td>Tabasco</td>
+                                <td>Universidad Veracruzana, campus Coatzacoalcos.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <br>
+                <br>
+            </li>
+            <li class="list">
+                <span class="title" style="font-size: 1.4em">
+                    En materia de servicio social
+                </span>
+            </li>
+            <li class="list">
+                <div class="table-responsive">
+                    <table class="table text-left">
+                        <thead>
+                            <tr>
+                                <th>Delegaci&oacute;n</th>
+                                <th>Nombre de la instituci&oacute;n</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Baja California Mexicali</td>
+                                <td>Universidad de Tijuana CUT, campus Mexicali.
+                                    <br>Universidad UNIVER Noroeste, Mexicali, A.C.</td>
+                            </tr>
+                            <tr>
+                                <td>Baja California Tijuana</td>
+                                <td>Universidad Aut&oacute;noma de Baja California.
+                                    <br>Universidad de Tijuana CUT, campus Tijuana.
+                                    <br>Centro de Estudios Universitarios Xochicalco, Universidad Xochicalco.
+                                    <br>Universidad del Desarrollo Profesional, UNIDEP.</td>
+                            </tr>
+                            <tr>
+                                <td>Baja California Sur</td>
+                                <td>Universidad Aut&oacute;noma de Baja California Sur.
+                                    <br>Universidad de Tijuana CUT, campus La Paz.
+                                    <br>Tecnol&oacute;gico de Baja California, Universidad Cat&oacute;lica.
+                                    <br>Sistema de Educaci&oacute;n e Investigaci&oacute;n Universitaria A.C., Universidad Mundial.</td>
+                            </tr>
+                            <tr>
+                                <td>Chiapas</td>
+                                <td>Universidad Aut&oacute;noma de Chiapas.
+                                    <br>Centro de Estudios Profesionales de Chiapas &ldquo;Fray Bartolom&eacute; de las Casas&rdquo;.
+                                    <br>Instituto de Estudios Superiores de Chiapas, S.C.</td>
+                            </tr>
+                            <tr>
+                                <td>Chihuahua</td>
+                                <td>Universidad Aut&oacute;noma de Chihuahua.
+                                    <br>Universidad Aut&oacute;noma de Ciudad Ju&aacute;rez.
+                                    <br>Centro Universitario de Ciudad Ju&aacute;rez.
+                                    <br>Instituto Tecnol&oacute;gico y de Estudios Superiores de Monterrey, campus Chihuahua.
+                                    <br>Centro de Estudios Superiores del Norte, S.C.
+                                    <br>Universidad La Salle, Chihuahua.</td>
+                            </tr>
+                            <tr>
+                                <td>Ciudad de M&eacute;xico</td>
+                                <td>Facultad de Derecho de la Universidad Nacional Aut&oacute;noma de M&eacute;xico.
+                                    <br>Universidad Latinoamericana, S.C.
+                                    <br>Universidad Aut&oacute;noma Metropolitana, Unidad Azcapotzalco.
+                                    <br>Universidad Insurgentes.
+                                    <br>Universidad Panamericana, campus Ciudad de M&eacute;xico.
+                                    <br>Facultad de Derecho de la Barra Nacional de Abogados.
+                                    <br>Universidad del Distrito Federal, S.C.
+                                    <br>Centro de Estudios Superiores en Ciencias Jur&iacute;dicas y Criminol&oacute;gicas, A.C., CESCIJUC.
+                                    <br>ICEL Universidad, S.C.
+                                    <br>Universidad Tres Culturas.
+                                    <br>Universidad Intercontinental, A.C., campus Sur.</td>
+                            </tr>
+                            <tr>
+                                <td>Coahuila</td>
+                                <td>Universidad Aut&oacute;noma de Coahuila.
+                                    <br>Universidad Aut&oacute;noma de la Laguna, A.C.
+                                    <br>Universidad Iberoamericana Torre&oacute;n.</td>
+                            </tr>
+                            <tr>
+                                <td>Durango</td>
+                                <td>Universidad Ju&aacute;rez del Estado de Durango.
+                                    <br>Universidad Aut&oacute;noma de Durango.
+                                    <br>Universidad Aut&oacute;noma Espa&ntilde;a de Durango.</td>
+                            </tr>
+                            <tr>
+                                <td>Estado de M&eacute;xico</td>
+                                <td>Universidad Aut&oacute;noma del Estado de M&eacute;xico, UAEM.
+                                    <br>Universidad del Valle de M&eacute;xico, Regi&oacute;n Hispano, Texcoco e Insurgentes Norte.
+                                    <br>Universidad del Valle de Toluca.
+                                    <br>Universidad Mexicana de Educaci&oacute;n a Distancia, plantel Toluca.
+                                    <br>Universidad del Valle de M&eacute;xico, campus Toluca.</td>
+                            </tr>
+                            <tr>
+                                <td>Guanajuato</td>
+                                <td>Universidad de Guanajuato.
+                                    <br>Universidad La Salle del Baj&iacute;o, A.C.
+                                    <br>Universidad Iberoamericana Le&oacute;n.
+                                    <br>Educaci&oacute;n Superior de Celaya, A.C., Universidad de Celaya
+                                    <br>Centro de Estudios Universitarios del Baj&iacute;o, A.C., Universidad Insurgentes, plantel Le&oacute;n.
+                                    <br>Educaci&oacute;n e Investigaci&oacute;n Le&oacute;n, S.C., Universidad de Le&oacute;n.
+                                    <br>Instituto Mundial de Estudios Superiores.</td>
+                            </tr>
+                            <tr>
+                                <td>Guerrero</td>
+                                <td>Universidad Aut&oacute;noma de Guerrero.
+                                    <br>Centro Universitario Espa&ntilde;ol, S.C.
+                                    <br>Centro Universitario Hip&oacute;crates.</td>
+                            </tr>
+                            <tr>
+                                <td>Regional Jalisco (Colima)</td>
+                                <td>Universidad Aut&oacute;noma de Guadalajara.
+                                    <br>Universidad de Colima.
+                                    <br>Instituto Tecnol&oacute;gico y de Estudios Superiores de Occidente, ITESO.
+                                    <br>Universidad Panamericana, sede Guadalajara.
+                                    <br>Universidad de Guadalajara.
+                                    <br>Universidad Univer, plantel Colima.
+                                    <br>Instituto Superior Aut&oacute;nomo de Occidente, A.C., UNIVA.</td>
+                            </tr>
+                            <tr>
+                                <td>Michoac&aacute;n</td>
+                                <td>Universidad Michoacana de San Nicol&aacute;s de Hidalgo.
+                                    <br>Universidad Don Vasco, A.C.
+                                    <br>Universidad Interamericana para el Desarrollo, Universidad del Tercer Milenio, S.C., UNID.
+                                    <br>Instituto Superior Aut&oacute;nomo de Occidente, A.C., Universidad del Valle de Atemajac plantel Uruapan, UNIVA.</td>
+                            </tr>
+                            <tr>
+                                <td>Morelos</td>
+                                <td>Universidad Aut&oacute;noma del Estado de Morelos.
+                                    <br>Universidad del Valle de Cuernavaca, UNIVAC.</td>
+                            </tr>
+                            <tr>
+                                <td>Nayarit</td>
+                                <td>Universidad Aut&oacute;noma de Nayarit.
+                                    <br>Universidad del Valle de Matatipac, S.C.</td>
+                            </tr>
+                            <tr>
+                                <td>Nuevo Le&oacute;n</td>
+                                <td>Universidad Aut&oacute;noma de Nuevo Le&oacute;n.
+                                    <br>Instituto Tecnol&oacute;gico y de Estudios Superiores de Monterrey, campus Monterrey, ITESM.</td>
+                            </tr>
+                            <tr>
+                                <td>Oaxaca</td>
+                                <td>Universidad Aut&oacute;noma &ldquo;Benito Ju&aacute;rez&rdquo; de Oaxaca.
+                                    <br>Universidad Regional del Sureste, A.C.
+                                    <br>Universidad La Salle Oaxaca, A.C.</td>
+                            </tr>
+                            <tr>
+                                <td>Regional Puebla (Tlaxcala)</td>
+                                <td>Benem&eacute;rita Universidad Aut&oacute;noma de Puebla.
+                                    <br>Universidad Aut&oacute;noma de Tlaxcala.
+                                    <br>Universidad Popular Aut&oacute;noma del Estado de Puebla, UPAEP.</td>
+                            </tr>
+                            <tr>
+                                <td>Regional Quer&eacute;taro (Hidalgo)</td>
+                                <td>Universidad Cuauht&eacute;moc, plantel Quer&eacute;taro, A.C.
+                                    <br>Universidad Aut&oacute;noma del Estado de Hidalgo.</td>
+                            </tr>
+                            <tr>
+                                <td>Quintana Roo</td>
+                                <td>Universidad de Quintana Roo.
+                                    <br>Universidad La Salle, Canc&uacute;n.</td>
+                            </tr>
+                            <tr>
+                                <td>San Luis Potos&iacute;</td>
+                                <td>Universidad Aut&oacute;noma de San Luis Potos&iacute;.
+                                    <br>Universidad del Valle de M&eacute;xico, campus San Luis Potos&iacute;, Grupo Educativo Potosino, A.C.
+                                    <br>Instituto de Ciencias y Estudios Superiores de San Luis Potos&iacute;, campus Valles, ICESS.
+                                    <br>Universidad Mesoamericana, S.C., plantel San Luis Potos&iacute;.
+                                    <br>Universidad Cuauht&eacute;moc, plantel San Luis Potos&iacute;, A.C.</td>
+                            </tr>
+                            <tr>
+                                <td>Sinaloa</td>
+                                <td>Universidad Aut&oacute;noma de Durango, campus Sinaloa.
+                                    <br>Universidad Aut&oacute;noma de Sinaloa.
+                                    <br>Instituto Tecnol&oacute;gico Superior de Sinaloa, A.C.
+                                    <br>Universidad Aut&oacute;noma Ind&iacute;gena de M&eacute;xico
+                                    <br>Escuela Libre de Derecho del Estado de Sinaloa</td>
+                            </tr>
+                            <tr>
+                                <td>Sonora</td>
+                                <td>Universidad de Sonora.
+                                    <br>Universidad del Noroeste.</td>
+                            </tr>
+                            <tr>
+                                <td>Tabasco</td>
+                                <td>Universidad Ju&aacute;rez Aut&oacute;noma de Tabasco.
+                                    <br>Universidad Olmeca, A.C</td>
+                            </tr>
+                            <tr>
+                                <td>Tamaulipas</td>
+                                <td>Universidad Aut&oacute;noma de Tamaulipas.
+                                    <br>Universidad Valle del Bravo.</td>
+                            </tr>
+                            <tr>
+                                <td>Veracruz</td>
+                                <td>Universidad Veracruzana.
+                                    <br>Universidad Crist&oacute;bal Col&oacute;n.
+                                    <br>Universidad Aut&oacute;noma de Veracruz, S.C.
+                                    <br>Centro de Estudios Jean Piaget.
+                                    <br>Universidad del Golfo de M&eacute;xico.
+                                    <br>Universidad de las Naciones.
+                                    <br>Ense&ntilde;anza e Investigaci&oacute;n Superior, Universidad Tec Milenio, campus Veracruz.
+                                    <br>Escuela Libre de Derecho de la Ciudad de Veracruz.</td>
+                            </tr>
+                            <tr>
+                                <td>Regional Yucat&aacute;n (Campeche)</td>
+                                <td>Universidad Aut&oacute;noma de Campeche.
+                                    <br>Universidad del Mayab, S.C.</td>
+                            </tr>
+                            <tr>
+                                <td>Regional Zacatecas (Aguascalientes)</td>
+                                <td>Universidad Aut&oacute;noma de Zacatecas &ldquo;Francisco Garc&iacute;a Salinas&rdquo;.
+                                    <br>Universidad Aut&oacute;noma de Aguascalientes.
+                                    <br>Universidad Bona Terra, A.C.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <br>
+                <br>
+            </li>
+            <li class="list">
+                <span class="title" style="font-size: 1.4em">
+                    Otras materias
+                </span>
+            </li>
+            <li class="list">
+                <div class="table-responsive">
+                    <table class="table text-left">
+                        <thead>
+                            <tr>
+                                <th>Materia</th>
+                                <th>Nombre de la instituci&oacute;n</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Pr&eacute;stamo interbibliotecario.</td>
+                                <td>Comisi&oacute;n Nacional de Derechos Humanos.</td>
+                            </tr>
+                            <tr>
+                                <td>Pr&eacute;stamo interbibliotecario.</td>
+                                <td>Integraci&oacute;n de la Red de Bibliotecas del Poder Judicial de la Federaci&oacute;n.</td>
+                            </tr>
+                            <tr>
+                                <td>Pr&aacute;ctica jur&iacute;dica.</td>
+                                <td>Facultad de Derecho de la Universidad Nacional Aut&oacute;noma de M&eacute;xico.</td>
+                            </tr>
+                            <tr>
+                                <td>Capacitaci&oacute;n.</td>
+                                <td>Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado de Veracruz.</td>
+                            </tr>
+                            <tr>
+                                <td>Pr&eacute;stamo interbibliotecario.</td>
+                                <td>Instituto de Investigaciones Jur&iacute;dicas de la UNAM.</td>
+                            </tr>
+                            <tr>
+                                <td>Capacitaci&oacute;n.</td>
+                                <td>Secretar&iacute;a de la Defensa Nacional.</td>
+                            </tr>
+                            <tr>
+                                <td>Capacitaci&oacute;n</td>
+                                <td>Comisi&oacute;n Nacional para el Desarrollo de los Pueblos Ind&iacute;genas e Instituto Nacional de Lenguas Ind&iacute;genas.</td>
+                            </tr>
+                            <tr>
+                                <td>Pr&aacute;ctica jur&iacute;dica.</td>
+                                <td>Universidad Aut&oacute;noma de Yucat&aacute;n.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <br>
+                <br>
+            </li>
+            <li class="list">
+                <span class="title" style="font-size: 1.4em">
+                    En materia de atenci&oacute;n a las v&iacute;ctimas y ofendidos del delito de secuestro.
+                </span>
+            </li>
+            <li class="list">
+                <div class="table-responsive">
+                    <table class="table text-left">
+                        <thead>
+                            <tr>
+                                <th>Delegaci&oacute;n</th>
+                                <th>Nombre de la instituci&oacute;n</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Baja California Sur</td>
+                                <td>Sistema de Educaci&oacute;n e Investigaci&oacute;n Universitaria, A.C., Universidad Mundial.</td>
+                            </tr>
+                            <tr>
+                                <td>Chiapas</td>
+                                <td>Instituto de Salud del Estado de Chiapas.</td>
+                            </tr>
+                            <tr>
+                                <td>Chihuahua</td>
+                                <td>Comisi&oacute;n Estatal de Derechos Humanos en el Estado de Chihuahua.
+                                    <br>Centro de Atenci&oacute;n y Prevenci&oacute;n Psicol&oacute;gicas.</td>
+                            </tr>
+                            <tr>
+                                <td>Durango</td>
+                                <td>Comisi&oacute;n Estatal de Derechos Humanos del Estado de Durango.</td>
+                            </tr>
+                            <tr>
+                                <td>Guanajuato</td>
+                                <td>Procuradur&iacute;a General de Justicia del Estado de Guanajuato.</td>
+                            </tr>
+                            <tr>
+                                <td>Nayarit</td>
+                                <td>Comisi&oacute;n de Defensa de los Derechos Humanos para el Estado de Nayarit.
+                                    <br>Procuradur&iacute;a General de Justicia del Estado de Nayarit.</td>
+                            </tr>
+                            <tr>
+                                <td>Quer&eacute;taro</td>
+                                <td>Servicios de Salud del Estado de Quer&eacute;taro.</td>
+                            </tr>
+                            <tr>
+                                <td>Quintana Roo</td>
+                                <td>Servicios Estatales de Salud del Estado de Quintana Roo.</td>
+                            </tr>
+                            <tr>
+                                <td>San Luis Potos&iacute;</td>
+                                <td>Centro de Atenci&oacute;n a las V&iacute;ctimas del Delito.</td>
+                            </tr>
+                            <tr>
+                                <td>Yucat&aacute;n</td>
+                                <td>Servicios de Salud de Yucat&aacute;n.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
